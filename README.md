@@ -27,12 +27,10 @@ Identify the highly similar neighbors of the target protein:KIBA_sim_Top5_ner.ip
 
 ##### Feature:
 
-Type1
-# Features include: mean, standard deviation, median, count of non-missing affinity values, mode, top 5 maximum values, and top 5 minimum values per row (calculated after removing NaNs), totaling 15 dimensions.
+Type1 「Features include: mean, standard deviation, median, count of non-missing affinity values, mode, top 5 maximum values, and top 5 minimum values per row (calculated after removing NaNs), totaling 15 dimensions.」
 Specificity-Based Statistical Features : KIBA_Protein_Drug_singlefea.ipynb.
 
-Type2
-# The features of highly similar neighbors are incorporated as supplementary features for the target entity.
+Type2 「The features of highly similar neighbors are incorporated as supplementary features for the target entity.」
 Neighbor-Based Statistical Features: Protein_nerFea.ipynb
 Affinity-Based Neighborhood Features:affinity_fea.ipynb
 
