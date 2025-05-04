@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/282e94ac-6cbe-4aec-b775-517d0e976216)![image](https://github.com/user-attachments/assets/7ba728ce-868a-4b90-8bbc-1736189f6f13)# PSA
+# PSA
 # INSTALLATION
 
 # Requirements:
